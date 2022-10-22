@@ -1,0 +1,2 @@
+Main-Class: pl.mwasyluk.filereader.Main
+Class-Path: . resources/
